@@ -2,7 +2,7 @@
 
 ## About Me 
 
-Hello, I'm Chris. Data Analyst with a specialtiy in visualizing data
+Hello, I'm Chris. Data Analyst with a specialty in visualizing data
   * Proficiency with machine learning models in programs such as RapidMiner and Knime
   * Querying with SQL in Access to pull data from multi relational tables
   * Certified in MOS - Excel 2019 
